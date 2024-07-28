@@ -53,21 +53,13 @@ Before you begin, ensure you have met the following requirements:
     python manage.py migrate
     ```
 
-6. **Create a superuser:**
-
-    ```bash
-    python manage.py createsuperuser
-    ```
-
-    Follow the prompts to create a superuser account.
-
-7. **Run the development server:**
+6. **Run the development server:**
 
     ```bash
     python manage.py runserver
     ```
 
-8. **Access the application:**
+7. **Access the application:**
 
     Open your web browser and go to `http://127.0.0.1:8000/` to see the application running.
 
