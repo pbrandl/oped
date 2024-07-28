@@ -8,7 +8,7 @@ This is a Django project designed to manage tasks. It includes CRUD operations f
 
 Before you begin, ensure you have met the following requirements:
 
-- You have installed Python 3.x
+- You have installed Python 3.10
 - You have installed pip (Python package installer)
 - You have installed virtualenv
 
