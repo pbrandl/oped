@@ -73,5 +73,5 @@ Before you begin, ensure you have met the following requirements:
 
 ### CORS Troubleshooting
 
-In combination with Flutter you may need to add your post as `localhost:xxxx` in `opeddjango/settings.py` to use the API.  
+In combination with Flutter you may need to add your port as `localhost:xxxx` in `opeddjango/settings.py` in `CORS_ALLOWED_ORIGINS` to use the API.  
 
