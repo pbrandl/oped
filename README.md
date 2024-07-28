@@ -71,8 +71,6 @@ Before you begin, ensure you have met the following requirements:
 
     Open your web browser and go to `http://127.0.0.1:8000/` to see the application running.
 
-## Configuration
-
 ### CORS Troubleshooting
 
 In combination with Flutter you may need to add your post as `localhost:xxxx` in `opeddjango/settings.py` to use the API.  
