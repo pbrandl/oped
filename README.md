@@ -73,7 +73,7 @@ Before you begin, ensure you have met the following requirements:
 
 ## Configuration
 
-### Environment Variables
+### CORS Troubleshooting
 
-Create a `.env` file in the root of your project directory and add the necessary environment variables:
+In combination with Flutter you may need to add your post as `localhost:xxxx` in `opeddjango/settings.py` to use the API.  
 
